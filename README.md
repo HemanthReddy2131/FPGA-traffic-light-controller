@@ -45,4 +45,4 @@ See `Traffic_Light_Controller_Project.md` for the full step-by-step guide, expec
 
 ## Author
 
-*(Add your name here)*
+KUMMATHI HEMANTH REDDY
